@@ -1,5 +1,11 @@
----
+Entendido! Vamos refinar a formatação dos diálogos para melhorar a legibilidade:
 
+1.  **Nomes dos participantes em negrito.**
+2.  **Pular linha após a frase em russo, após a transcrição IPA e antes da tradução para o português.**
+
+Aqui está a **Lição 2** completa com esses ajustes de formatação nos diálogos.
+
+---
 **Уро́к 2** (Второ́й)
 
 **Здра́вствуйте! Знако́мство.**
@@ -60,12 +66,12 @@ Olá! / Bom dia! / Boa tarde! / Boa noite! (usado a qualquer hora do dia)
 
 **Exemplo de uso formal:**
 Imagine que você entra em uma loja.
-Вы (Você):
+**Вы** (Você):
 Здра́вствуйте!
 [ˈzdrastvʊjtʲe]
 Olá!
 
-Продаве́ц (Vendedor):
+**Продаве́ц** (Vendedor):
 Здра́вствуйте! Чем могу́ помо́чь?
 [ˈzdrastvʊjtʲe | t͡ɕem mɐˈɡu pɐˈmot͡ɕ]
 Olá! Em que posso ajudar?
@@ -103,12 +109,12 @@ Oi! / Olá!
 **Exemplo de uso informal:**
 Вы (Você) encontra um amigo chamado Макси́м (Maxim). Você se chama А́нна (Anna).
 
-Ты (Вы - А́нна):
+**Ты (Вы - А́нна)**:
 Приве́т, Макси́м!
 [prʲɪˈvʲet | mɐkˈsʲim]
 Oi, Maxim!
 
-Макси́м (Maxim):
+**Макси́м** (Maxim):
 Приве́т, А́нна! Как дела́?
 [prʲɪˈvʲet | ˈanːə | kak dʲɪˈla]
 Oi, Anna! Como vai?
@@ -150,12 +156,12 @@ Assim como em português, existem saudações específicas para diferentes perí
 **Exemplo com saudação de hora do dia:**
 Você (И́горь Петро́вич - Igor Petrovich) chega ao escritório pela manhã.
 
-Вы (И́горь Петро́вич):
+**Вы (И́горь Петро́вич)**:
 До́брое у́тро, колле́ги!
 [ˈdobrəjə ˈutrə | kɐˈlʲeɡʲɪ]
 Bom dia, colegas!
 
-Колле́га (Colega):
+**Колле́га** (Colega):
 До́брое у́тро, И́горь Петро́вич!
 [ˈdobrəjə ˈutrə | ˈiɡərʲ pʲɪˈtrovʲɪt͡ɕ]
 Bom dia, Igor Petrovich!
@@ -192,34 +198,34 @@ Boa noite! (Tenha uma noite tranquila!)
 Vamos ver alguns mini-diálogos para praticar:
 
 **Диало́г 1 (Форма́льный - Formal)**
-А:
+**А**:
 Здра́вствуйте!
 [ˈzdrastvʊjtʲe]
 Olá!
 
-Б:
+**Б**:
 Здра́вствуйте!
 [ˈzdrastvʊjtʲe]
 Olá!
 
 **Диало́г 2 (Неформа́льный - Informal)**
-А:
+**А**:
 Приве́т!
 [prʲɪˈvʲet]
 Oi!
 
-Б:
+**Б**:
 Приве́т!
 [prʲɪˈvʲet]
 Oi!
 
 **Диало́г 3 (У́тром в магази́не - De manhã na loja)**
-Покупа́тель (Cliente):
+**Покупа́тель** (Cliente):
 До́брое у́тро!
 [ˈdobrəjə ˈutrə]
 Bom dia!
 
-Продаве́ц (Vendedor):
+**Продаве́ц** (Vendedor):
 Здра́вствуйте! / До́брое у́тро!
 [ˈzdrastvʊjtʲe / ˈdobrəjə ˈutrə]
 Olá! / Bom dia!
@@ -231,12 +237,12 @@ Olá! / Bom dia!
 | **Покупа́тель**       | [pəkʊˈpatʲɪlʲ]  | Cliente, comprador    | Substantivo masculino          |
 
 **Диало́г 4 (Ве́чером с сосе́дом - À noite com o vizinho)**
-Сосе́д 1 (Vizinho 1, chamado Ива́н - Ivan):
+**Сосе́д 1** (Vizinho 1, chamado Ива́н - Ivan):
 До́брый ве́чер, Ива́н!
 [ˈdobrɨj ˈvʲet͡ɕɪr | ɪˈvan]
 Boa noite, Ivan!
 
-Сосе́д 2 (Vizinho 2, chamada Мари́я - Maria):
+**Сосе́д 2** (Vizinho 2, chamada Мари́я - Maria):
 До́брый ве́чер, Мари́я!
 [ˈdobrɨj ˈvʲet͡ɕɪr | mɐˈrʲijə]
 Boa noite, Maria!
@@ -404,17 +410,17 @@ O "дела́" entre parênteses pode ser omitido na pergunta de retorno.
 #### **2.2.3 Диало́ги "Как дела́?" (Diálogos "Como vai?")**
 
 **Диало́г 1 (Неформа́льный - Informal)**
-Ле́на (Lena):
+**Ле́на** (Lena):
 Приве́т, Макс! Как ты?
 [prʲɪˈvʲet | maks | kak tɨ]
 Oi, Max! Como você está?
 
-Макс (Max):
+**Макс** (Max):
 Приве́т, Ле́на! Отли́чно! А ты?
 [prʲɪˈvʲet | ˈlʲenə | ɐtˈlʲit͡ɕnə | a tɨ]
 Oi, Lena! Ótimo! E você?
 
-Ле́на:
+**Ле́на**:
 То́же хорошо́, спаси́бо!
 [ˈtoʐə xərɐˈʂo | spɐˈsʲibə]
 Bem também, obrigada!
@@ -429,17 +435,17 @@ Bem também, obrigada!
 | **То́же**             | [ˈtoʐə]         | Também                    | Advérbio                       |
 
 **Диало́г 2 (Бо́лее форма́льный - Mais formal)**
-Ива́н Петро́вич (Ivan Petrovich):
+**Ива́н Петро́вич** (Ivan Petrovich):
 До́брый день, Мари́я Серге́евна! Как вы?
 [ˈdobrɨj dʲenʲ | mɐˈrʲijə sʲɪrˈɡʲejɪvnə | kak vɨ]
 Boa tarde, Maria Sergeyevna! Como a senhora está?
 
-Мари́я Серге́евна (Maria Sergeyevna):
+**Мари́я Серге́евна** (Maria Sergeyevna):
 Здра́вствуйте, Ива́н Петро́вич! Спаси́бо, непло́хо. А Вы как?
 [ˈzdrastvʊjtʲe | ɪˈvan pʲɪˈtrovʲɪt͡ɕ | spɐˈsʲibə | nʲɪˈploxə | a vɨ kak]
 Olá, Ivan Petrovich! Obrigada, nada mal. E o senhor, como está?
 
-Ива́н Петро́вич:
+**Ива́н Петро́вич**:
 Всё норма́льно, спаси́бо.
 [fsʲo nɐrˈmalʲnə | spɐˈsʲibə]
 Tudo normal, obrigado.
@@ -453,17 +459,17 @@ Tudo normal, obrigado.
 | **Всё**                 | [fsʲo]                      | Tudo                            | Pronome                                                    |
 
 **Диало́г 3 (С колле́гой - Com um colega)**
-О́льга (Olga):
+**О́льга** (Olga):
 Приве́т, Андре́й! Что но́вого?
 [prʲɪˈvʲet | ɐnˈdrʲej | ʂto ˈnovəvə]
 Oi, Andrei! O que há de novo?
 
-Андре́й (Andrei):
+**Андре́й** (Andrei):
 Приве́т, О́ля! Да так, ничего́ осо́бенного. Работа́ем. А у тебя́?
 [prʲɪˈvʲet | ˈolʲə | da tak | nʲɪt͡ɕɪˈvo ɐˈsobʲɪnːəvə | rɐˈbotəjɪm | a‿ʊ‿tʲɪˈbʲa]
 Oi, Olya! Ah, mais ou menos, nada de especial. Trabalhando. E com você?
 
-О́льга:
+**О́льга**:
 У меня́ то́же всё по-ста́рому.
 [ʊ‿mʲɪˈnʲa ˈtoʐə fsʲo pɐˈstarəmʊ]
 Comigo também tudo como antes (tudo na mesma).
@@ -619,7 +625,7 @@ Já vimos esses pronomes, mas vamos reforçá-los, pois são cruciais.
 **A escolha entre ТЫ e ВЫ (singular):**
 Esta é uma das distinções sociais mais importantes em russo. Usar ТЫ com alguém que espera ВЫ é rude. Usar ВЫ com um amigo próximo pode soar distante.
 
-*   **Quando usar ТЫ:** amigos íntimos, familiares próximos, crianças, às vezes colegas da mesma idade após um tempo e acordo mútuo.
+*   **Когда использовать ТЫ:** amigos íntimos, familiares próximos, crianças, às vezes colegas da mesma idade após um tempo e acordo mútuo.
 *   **Когда использовать ВЫ:** estranhos, pessoas mais velhas, figuras de autoridade, em qualquer situação formal, ao se dirigir a alguém cujo nome e patronímico você usa (ex: Ива́н Петро́вич).
 
 **Перехо́д на "ты" (Transição para "ты"):**
@@ -662,33 +668,33 @@ Falaremos mais sobre possessivos e gênero em lições futuras.
 #### **2.3.6 Диало́ги знако́мства (Diálogos de Apresentação)**
 
 **Диало́г 1 (Неформа́льный - Informal)**
-Андре́й:
+**Андре́й**:
 Приве́т! Меня́ зову́т Андре́й. А тебя́?
 [prʲɪˈvʲet | mʲɪˈnʲa zɐˈvut ɐnˈdrʲej | a tʲɪˈbʲa]
 Oi! Meu nome é Andrei. E o seu?
 
-О́льга:
+**О́льга**:
 Приве́т! Меня́ зову́т О́льга. О́чень прия́тно.
 [prʲɪˈvʲet | mʲɪˈnʲa zɐˈvut ˈolʲɡə | ˈot͡ɕɪnʲ prʲɪˈjatnə]
 Oi! Meu nome é Olga. Muito prazer.
 
-Андре́й:
+**Андре́й**:
 Мне то́же о́чень прия́тно, О́льга.
 [mnʲe ˈtoʐə ˈot͡ɕɪnʲ prʲɪˈjatnə | ˈolʲɡə]
 O prazer é meu também, Olga.
 
 **Диало́г 2 (Форма́льный - Formal, em uma conferência)**
-Г-н Смирно́в (Sr. Smirnov, Дми́трий - Dmitri):
+**Г-н Смирно́в** (Sr. Smirnov, Дми́трий - Dmitri):
 Здра́вствуйте. Меня́ зову́т Дми́трий Смирно́в.
 [ˈzdrastvʊjtʲe | mʲɪˈnʲa zɐˈvut ˈdmʲitrʲɪj smʲɪrˈnof]
 Olá. Meu nome é Dmitri Smirnov.
 
-Г-жа Ивано́ва (Sra. Ivanova, Еле́на - Elena):
+**Г-жа Ивано́ва** (Sra. Ivanova, Еле́на - Elena):
 Здра́вствуйте, Дми́трий. Меня́ зову́т Еле́на Ивано́ва. Прия́тно познако́миться.
 [ˈzdrastvʊjtʲe | ˈdmʲitrʲɪj | mʲɪˈnʲa zɐˈvut jɪˈlʲenə ɪvɐˈnovə | prʲɪˈjatnə pəznɐˈkomʲɪt͡sə]
 Olá, Dmitri. Meu nome é Elena Ivanova. Prazer em conhecê-lo.
 
-Г-н Смирно́в:
+**Г-н Смирно́в**:
 Мне то́же прия́тно, Еле́на.
 [mnʲe ˈtoʐə prʲɪˈjatnə | jɪˈlʲenə]
 O prazer é meu também, Elena.
@@ -708,27 +714,27 @@ O prazer é meu também, Elena.
 
 
 **Диало́г 3 (Представле́ние дру́га - Apresentando um amigo)**
-Ма́ша (Masha):
+**Ма́ша** (Masha):
 Бори́с, приве́т!
 [ˈmaʂə | bɐˈrʲis | prʲɪˈvʲet]
 Masha: Boris, oi!
 
-Бори́с (Boris):
+**Бори́с** (Boris):
 Приве́т, Ма́ша!
 [bɐˈrʲis | prʲɪˈvʲet | ˈmaʂə]
 Boris: Oi, Masha!
 
-Ма́ша:
+**Ма́ша**:
 Познако́мься, э́то мой друг Ива́н. Ива́н, э́то Бори́с.
 [pəznɐˈkomʲsʲə | ˈɛtə moj druk ɪˈvan | ɪˈvan | ˈɛtə bɐˈrʲis]
 Masha: Conheça, este é meu amigo Ivan. Ivan, este é Boris.
 
-Ива́н:
+**Ива́н**:
 О́чень прия́тно, Бори́с.
 [ɪˈvan | ˈot͡ɕɪnʲ prʲɪˈjatnə | bɐˈrʲis]
 Ivan: Muito prazer, Boris.
 
-Бори́с:
+**Бори́с**:
 Мне то́же, Ива́н.
 [bɐˈrʲis | mnʲe ˈtoʐə | ɪˈvan]
 Boris: O prazer é meu, Ivan.
@@ -747,22 +753,22 @@ Você (use seu nome) encontra uma pessoa (vamos chamá-la de Алекса́нд�
 
 **Отве́т – Упражне́ние 2.3.8 (Resposta – Exercício 2.3.8) (Exemplo usando o nome Па́улу):**
 
-Вы (Па́улу):
+**Вы (Па́улу)**:
 Здра́вствуйте!
 [ˈzdrastvʊjtʲe]
 Olá!
 
-Алекса́ндр:
+**Алекса́ндр**:
 Здра́вствуйте! Меня́ зову́т Алекса́ндр. А как Вас зову́т?
 [ˈzdrastvʊjtʲe | mʲɪˈnʲa zɐˈvut ɐlʲɪkˈsandr | a kak vas zɐˈvut]
 Olá! Meu nome é Aleksandr. E qual é o seu nome?
 
-Вы (Па́улу):
+**Вы (Па́улу)**:
 Меня́ зову́т Па́улу. О́чень прия́тно.
 [mʲɪˈnʲa zɐˈvut ˈpaulʊ | ˈot͡ɕɪnʲ prʲɪˈjatnə]
 Meu nome é Paulo. Muito prazer.
 
-Алекса́ндр:
+**Алекса́ндр**:
 Мне то́же о́чень прия́тно, Па́улу.
 [mnʲe ˈtoʐə ˈot͡ɕɪnʲ prʲɪˈjatnə | ˈpaulʊ]
 O prazer é meu também, Paulo.
@@ -776,7 +782,7 @@ O prazer é meu também, Paulo.
 
 ### **2.4 Проща́ния (Despedidas)**
 
-Assim como os cumprimentos, las despedidas variam em formalidade.
+Assim como os cumprimentos, as despedidas variam em formalidade.
 
 #### **2.4.1 Форма́льные и универса́льные проща́ния (Despedidas Formais e Universais)**
 
@@ -842,23 +848,23 @@ Outras opções informais para ver amigos em breve:
 #### **2.4.3 Диало́ги с проща́ниями (Diálogos com Despedidas)**
 
 **Диало́г 1 (В магази́не - Na loja)**
-Покупа́тель:
+**Покупа́тель**:
 Спаси́бо! До свида́ния!
 [spɐˈsʲibə | də‿svʲɪˈdanʲɪjə]
 Obrigado(a)! Adeus!
 
-Продаве́ц:
+**Продаве́ц**:
 Всего́ до́брого! / До свида́ния!
 [fsʲɪˈvo ˈdobrəvə | də‿svʲɪˈdanʲɪjə]
 Tudo de bom! / Adeus!
 
 **Диало́г 2 (Друзья́ проща́ются - Amigos se despedem)**
-Макс:
+**Макс**:
 Ну, мне пора́. Пока́, А́нна!
 [nu | mnʲe pɐˈra | pɐˈka | ˈanːə]
 Max: Bem, está na minha hora (de ir). Tchau, Anna!
 
-А́нна:
+**А́нна**:
 Пока́, Макс! До ско́рого!
 [pɐˈka | maks | də ˈskorəvə]
 Anna: Tchau, Max! Até breve!
@@ -871,12 +877,12 @@ Anna: Tchau, Max! Até breve!
 | **Пора́ (мне пора́)**   | [pɐˈra]         | É hora (está na minha hora de ir)         | Predicativo (com pronome no dativo: мне, тебе́, ему́) |
 
 **Диало́г 3 (Колле́ги в конце́ рабо́чего дня - Colegas no final do dia de trabalho)**
-О́льга:
+**О́льга**:
 До свида́ния, И́горь!
 [də‿svʲɪˈdanʲɪjə | ˈiɡərʲ]
 Olga: Até logo, Igor!
 
-И́горь:
+**И́горь**:
 Уви́димся, О́ля! До за́втра!
 [ʊˈvʲidʲɪmsʲə | ˈolʲə | də ˈzaftrə]
 Igor: A gente se vê, Olya! Até amanhã!
@@ -909,39 +915,47 @@ Vamos juntar tudo o que aprendemos em alguns diálogos um pouco mais longos.
 
 **Диало́г 1 (Два студе́нта в университе́те - Dois estudantes na universidade, situação informal)**
 
-Анто́н (Anton):
+**Анто́н** (Anton):
 Приве́т!
 [prʲɪˈvʲet]
 Oi!
 
-Ве́ра (Vera):
+**Ве́ра** (Vera):
 Приве́т! Меня́ зову́т Ве́ра. А тебя́?
-[prʲɪˈvʲet | mʲɪˈnʲa zɐˈvut ˈvʲerə | a tʲɪˈbʲa]
+[prʲɪˈvʲet]
+[mʲɪˈnʲa zɐˈvut ˈvʲerə]
+[a tʲɪˈbʲa]
 Oi! Meu nome é Vera. E o seu?
 
-Анто́н:
+**Анто́н**:
 Меня́ зову́т Анто́н. О́чень прия́тно.
-[mʲɪˈnʲa zɐˈvut ɐnˈton | ˈot͡ɕɪnʲ prʲɪˈjatnə]
+[mʲɪˈnʲa zɐˈvut ɐnˈton]
+[ˈot͡ɕɪnʲ prʲɪˈjatnə]
 Meu nome é Anton. Muito prazer.
 
-Ве́ра:
+**Ве́ра**:
 Мне то́же. Как дела́, Анто́н?
-[mnʲe ˈtoʐə | kak dʲɪˈla | ɐnˈton]
+[mnʲe ˈtoʐə]
+[kak dʲɪˈla | ɐnˈton]
 O prazer é meu. Como vai, Anton?
 
-Анто́н:
+**Анто́н**:
 Спаси́бо, хорошо́! А у тебя́?
-[spɐˈsʲibə | xərɐˈʂo | a‿ʊ‿tʲɪˈbʲa]
+[spɐˈsʲibə | xərɐˈʂo]
+[a‿ʊ‿tʲɪˈbʲa]
 Obrigado, bem! E você?
 
-Ве́ра:
+**Ве́ра**:
 Норма́льно. Ну, мне пора́ на ле́кцию. Пока́!
-[nɐrˈmalʲnə | nu | mnʲe pɐˈra nə ˈlʲekt͡sɨjʊ | pɐˈka]
+[nɐrˈmalʲnə]
+[nu | mnʲe pɐˈra nə ˈlʲekt͡sɨjʊ]
+[pɐˈka]
 Normal. Bem, está na hora da minha aula. Tchau!
 
-Анто́н:
+**Анто́н**:
 Пока́, Ве́ра! Уви́димся!
-[pɐˈka | ˈvʲerə | ʊˈvʲidʲɪmsʲə]
+[pɐˈka | ˈvʲerə]
+[ʊˈvʲidʲɪmsʲə]
 Tchau, Vera! A gente se vê!
 
 **Но́вые слова́ и имена́ из диало́га 1 (Novas palavras e nomes do diálogo 1):**
@@ -955,47 +969,55 @@ Tchau, Vera! A gente se vê!
 
 **Диало́г 2 (В о́фисе, но́вый сотру́дник - No escritório, novo funcionário, situação formal)**
 
-Дире́ктор (Diretor):
+**Дире́ктор** (Diretor):
 Здра́вствуйте, Пётр Васи́льевич. Проходи́те, пожа́луйста.
-[ˈzdrastvʊjtʲe | pʲotr vɐˈsʲilʲjɪvʲɪt͡ɕ | prəxɐˈdʲitʲe | pɐˈʐalʊstə]
+[ˈzdrastvʊjtʲe | pʲotr vɐˈsʲilʲjɪvʲɪt͡ɕ]
+[prəxɐˈdʲitʲe | pɐˈʐalʊstə]
 Olá, Piotr Vasilievich. Entre, por favor.
 
-Пётр В. (Piotr V.):
+**Пётр В.** (Piotr V.):
 Здра́вствуйте, Серге́й Ива́нович.
 [ˈzdrastvʊjtʲe | sʲɪrˈɡʲej ɪˈvanəvʲɪt͡ɕ]
 Olá, Sergei Ivanovich.
 
-Дире́ктор:
+**Дире́ктор**:
 Разреши́те предста́вить Вам на́шего но́вого сотру́дника. Э́то Анна Смирно́ва. А́нна, э́то Пётр Васи́льевич, наш фина́нсовый дире́ктор.
-[rəzrʲɪˈʂɨtʲe prʲɪtˈstavʲɪtʲ vam ˈnaʂəvə ˈnovəvə sɐˈtrudʲnʲɪkə | ˈɛtə ˈanːə smʲɪrˈnovə | ˈanːə | ˈɛtə pʲotr vɐˈsʲilʲjɪvʲɪt͡ɕ | naʂ fʲɪˈnansəvɨj dʲɪˈrʲektər]
+[rəzrʲɪˈʂɨtʲe prʲɪtˈstavʲɪtʲ vam ˈnaʂəvə ˈnovəvə sɐˈtrudʲnʲɪkə]
+[ˈɛtə ˈanːə smʲɪrˈnovə]
+[ˈanːə | ˈɛtə pʲotr vɐˈsʲilʲjɪvʲɪt͡ɕ | naʂ fʲɪˈnansəvɨj dʲɪˈrʲektər]
 Permita-me apresentar-lhe nosso novo funcionário. Esta é Anna Smirnova. Anna, este é Piotr Vasilievich, nosso diretor financeiro.
 
-А́нна (Anna):
+**А́нна** (Anna):
 О́чень прия́тно, Пётр Васи́льевич. Меня́ зову́т А́нна.
-[ˈot͡ɕɪnʲ prʲɪˈjatnə | pʲotr vɐˈsʲilʲjɪvʲɪt͡ɕ | mʲɪˈnʲa zɐˈvut ˈanːə]
+[ˈot͡ɕɪnʲ prʲɪˈjatnə | pʲotr vɐˈsʲilʲjɪvʲɪt͡ɕ]
+[mʲɪˈnʲa zɐˈvut ˈanːə]
 Muito prazer, Piotr Vasilievich. Meu nome é Anna.
 
-Пётр В.:
+**Пётр В.**:
 Мне то́же о́чень прия́тно, А́нна. Добро́ пожа́ловать в кома́нду! Как Вы?
-[mnʲe ˈtoʐə ˈot͡ɕɪnʲ prʲɪˈjatnə | ˈanːə | dɐˈbro pɐˈʐaləvətʲ f‿kɐˈmandu | kak vɨ]
+[mnʲe ˈtoʐə ˈot͡ɕɪnʲ prʲɪˈjatnə | ˈanːə]
+[dɐˈbro pɐˈʐaləvətʲ f‿kɐˈmandu]
+[kak vɨ]
 O prazer é meu também, Anna. Bem-vinda à equipe! Como a senhora está?
 
-А́нна:
+**А́нна**:
 Спаси́бо большо́е! Всё хорошо́, спаси́бо.
-[spɐˈsʲibə bɐlʲˈʂojə | fsʲo xərɐˈʂo | spɐˈsʲibə]
+[spɐˈsʲibə bɐlʲˈʂojə]
+[fsʲo xərɐˈʂo | spɐˈsʲibə]
 Muito obrigada! Tudo bem, obrigada.
 
-Дире́ктор:
+**Дире́ктор**:
 Ну что ж, тогда́ приступа́йте к рабо́те. Ещё раз добро́ пожа́ловать!
-[nu ʂto‿ʂ | tɐɡˈda prʲɪstʊˈpaɪtʲe k‿rɐˈbotʲe | jɪˈɕːo ras dɐˈbro pɐˈʐaləvətʲ]
+[nu ʂto‿ʂ | tɐɡˈda prʲɪstʊˈpaɪtʲe k‿rɐˈbotʲe]
+[jɪˈɕːo ras dɐˈbro pɐˈʐaləvətʲ]
 Pois bem, então comece a trabalhar. Bem-vinda mais uma vez!
 
-А́нна:
+**А́нна**:
 Спаси́бо. До свида́ния!
 [spɐˈsʲibə | də‿svʲɪˈdanʲɪjə]
 Obrigada. Até logo!
 
-Пётр В.:
+**Пётр В.**:
 До свида́ния!
 [də‿svʲɪˈdanʲɪjə]
 Até logo!
@@ -1072,7 +1094,7 @@ Use Кто?, Что?, Как? ou Где? para formar uma pergunta lógica para a
 2.  Вопро́с: Кто э́то? (Quem é este?)
 3.  Вопро́с: Как дела́? / Как ты? / Как Вы? (Como vai?)
 4.  Вопро́с: Что э́то? (O que é isto?)
-5.  Вопро́с: Где апте́ка? (Onde é a farmácia?) (*апте́ка* [ɐpˈtʲekə] - farmácia; *здесь* [zʲdʲesʲ] - aqui)
+5.  Вопро́с: Где апте́ка? (Onde é a farmácia?)
 
 **Но́вые слова́ из отве́тов (Novas palavras das respostas):**
 
@@ -1173,11 +1195,11 @@ Classifique as seguintes frases como mais prováveis de serem usadas em um conte
 
 **Отве́ты – Упражне́ние 2.8.2 (Respostas – Exercício 2.8.2):**
 1.  INFORMAL
-2.  FORMAL (господи́н дире́ктор [ɡəspɐˈdʲin dʲɪˈrʲektər] - senhor diretor)
-3.  NEUTRO (pode ser usado em ambos, mas "Меня́ зову́т" é padrão)
-4.  FORMAL (уважа́емая профе́ссор Ивано́ва [ʊvɐˈʐajɪməjə prɐˈfʲesər ɪvɐˈnovə] - estimada professora Ivanova)
+2.  FORMAL
+3.  NEUTRO
+4.  FORMAL
 5.  INFORMAL
-6.  FORMAL (разреши́те уточни́ть [rəzrʲɪˈʂɨtʲe ʊtɐt͡ɕˈnʲitʲ] - permita-me esclarecer/perguntar novamente)
+6.  FORMAL
 
 **Но́вые слова́ из упражне́ния (Novas palavras do exercício):**
 
