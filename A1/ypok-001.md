@@ -1,10 +1,10 @@
 
 ---
-**Уро́к 1** (Первый)
+# Уро́к 1 (Первый)
 
-**Ру́сский алфави́т и зву́ки**
+# Ру́сский алфави́т и зву́ки
 
-*O alfabeto russo e os sons*
+## *O alfabeto russo e os sons*
 ---
 
 Olá, futuro falante de russo! Приве́т! (Olá!, informal)
