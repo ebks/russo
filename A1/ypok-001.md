@@ -28,6 +28,8 @@ Nesta primeira lição, vamos nos concentrar nos fundamentos absolutos: o alfabe
 
 Prepare seu caderno, sua curiosidade e vamos começar esta incrível aventura! Вперёд! (Avante!)
 
+---
+
 ### **1.1 O Алфави́т Ру́сский (Alfabeto Russo): Uma Breve Introdução**
 
 O alfabeto russo, também conhecido como **азбука** ([ázbʊkə] – ázbuka), é uma variante do alfabeto cirílico. O cirílico original foi desenvolvido no século IX na Bulgária, com base no alfabeto grego, pelos discípulos dos santos Cirilo e Metódio, missionários bizantinos. Eles precisavam de um sistema de escrita para traduzir textos religiosos para as línguas eslavas.
