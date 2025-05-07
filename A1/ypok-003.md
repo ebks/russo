@@ -1,4 +1,3 @@
-
 ---
 # Уро́к 3 (Тре́тий)
 
@@ -11,7 +10,7 @@
 
 Nesta lição, vamos expandir nossa capacidade de interagir com o mundo ao nosso redor. Aprenderemos a perguntar "Quem é este?" (**Кто э́то?**) para pessoas e "O que é isto?" (**Что э́то?**) para objetos e conceitos. Esta é uma habilidade fundamental para identificar e nomear coisas. Além disso, mergulharemos em um tópico muito importante e universal: a família (**семья́**). Você aprenderá o vocabulário para os membros básicos da família e como falar sobre eles de forma simples. Introduziremos também os pronomes possessivos "meu/minha" para que você possa dizer "minha mãe", "meu irmão", etc. E, para dar suporte a tudo isso, teremos uma introdução suave, mas essencial, ao conceito de gênero dos substantivos em russo, já que ele afeta como usamos adjetivos e pronomes.
 
-**O que você aprenderá nesta lição:**
+**O что вы узна́ете на э́том уро́ке (O que você aprenderá nesta lição):**
 
 *   Usar as palavras interrogativas **Кто?** (Quem?) e **Что?** (O quê?) para perguntar sobre pessoas e objetos.
 *   Entender a distinção básica entre substantivos animados (pessoas, animais) e inanimados em russo e como isso se relaciona com Кто? e Что?.
@@ -76,30 +75,25 @@ Para responder a perguntas com Кто? e Что?, frequentemente usamos o pronom
 
 **Диало́г (Diálogo)**
 
-**Анто́н**:
-Приве́т, Ле́на!
+Анто́н: Приве́т, Ле́на!
 [prʲɪˈvʲet | ˈlʲenə]
 Oi, Lena!
 
-**Ле́на**:
-Приве́т, Анто́н! Смотри́!
+Ле́на: Приве́т, Анто́н! Смотри́!
 [prʲɪˈvʲet | ɐnˈton | smɐˈtrʲi]
 Oi, Anton! Olha!
 
 **(Ле́на пока́зывает фотогра́фию - Lena mostra uma fotografia)**
 
-**Анто́н**:
-Кто э́то? Э́то твой брат?
+Анто́н: Кто э́то? Э́то твой брат?
 [kto ˈɛtə | ˈɛtə tvoj brat]
 Quem é este? Este é seu irmão?
 
-**Ле́на**:
-Да, э́то мой брат Ива́н. А э́то что? Но́вая ру́чка?
+Ле́на: Да, э́то мой брат Ива́н. А э́то что? Но́вая ру́чка?
 [da | ˈɛtə moj brat ɪˈvan | a ˈɛtə ʂto | ˈnovəjə ˈrut͡ɕkə]
 Sim, este é meu irmão Ivan. E isto, o que é? Uma caneta nova?
 
-**Анто́н**:
-Да, э́то моя́ но́вая ру́чка.
+Анто́н: Да, э́то моя́ но́вая ру́чка.
 [da | ˈɛtə mɐˈja ˈnovəjə ˈrut͡ɕkə]
 Sim, esta é minha caneta nova.
 
@@ -208,33 +202,27 @@ Por enquanto, focaremos no singular: **э́тот, э́та, э́то**. O plura
 
 **Диало́г (Diálogo)**
 
-**Продаве́ц**:
-Здра́вствуйте! Что Вы хоти́те?
+Продаве́ц: Здра́вствуйте! Что Вы хоти́те?
 [ˈzdrastvʊjtʲe | ʂto vɨ xɐˈtʲitʲe]
 Olá! O que o(a) senhor(a) deseja?
 
-**Покупа́тель**:
-Я хочу́ купи́ть сувени́р. Что э́то?
+Покупа́тель: Я хочу́ купи́ть сувени́р. Что э́то?
 [ja xɐˈt͡ʃu kʊˈpʲitʲ sʊvʲɪˈnʲir | ʂto ˈɛtə]
 Eu quero comprar uma lembrancinha. O que é isto?
 
-**Продаве́ц**:
-Э́то матрёшка.
+Продаве́ц: Э́то матрёшка.
 [ˈɛtə mɐˈtrʲoʂkə]
 Isto é uma matryoshka.
 
-**Покупа́тель**:
-А э́тот сувени́р? Кто э́то?
+Покупа́тель: А э́тот сувени́р? Кто э́то?
 [a ˈɛtət sʊvʲɪˈnʲir | kto ˈɛtə]
 E esta lembrancinha? Quem é este?
 
-**Продаве́ц**:
-Э́то Чебура́шка, популя́рный персона́ж. Э́та игру́шка о́чень ми́лая.
+Продаве́ц: Э́то Чебура́шка, популя́рный персона́ж. Э́та игру́шка о́чень ми́лая.
 [ˈɛtə t͡ɕɪbʊˈraʂkə | pəpʊˈlʲarnɨj pʲɪrsɐˈnaʂ | ˈɛtə ɪˈɡruʂkə ˈot͡ɕɪnʲ ˈmʲiləjə]
 Este é o Cheburashka, um personagem popular. Este brinquedo é muito fofo.
 
-**Покупа́тель**:
-Хорошо́, я беру́ э́ту матрёшку и э́того Чебура́шку.
+Покупа́тель: Хорошо́, я беру́ э́ту матрёшку и э́того Чебура́шку.
 [xərɐˈʂo | ja bʲɪˈru ˈɛtʊ mɐˈtrʲoʂkʊ i ˈɛtəvə t͡ɕɪbʊˈraʂkʊ]
 Ok, eu levo esta matryoshka e este Cheburashka. (Nota: э́ту e э́того estão no caso acusativo)
 
@@ -451,33 +439,27 @@ Note os pronomes **его́** [jɪˈvo] (dele/seu) e **её** [jɪˈjo] (dela/su
 
 **(Анто́н пока́зывает Ле́не фотогра́фию свое́й семьи́ - Anton mostra a Lena uma fotografia da sua família)**
 
-**Ле́на**:
-Ой, кака́я хоро́шая фотогра́фия! Кто э́то?
+Ле́на: Ой, кака́я хоро́шая фотогра́фия! Кто э́то?
 [oj | kɐˈkajə xɐˈroʂəjə fətɐˈɡrafʲɪjə | kto ˈɛtə]
 Oh, que foto boa! Quem são estes? (Literalmente: Quem é isto?)
 
-**Анто́н**:
-Э́то моя́ семья́. Вот э́то мои́ роди́тели: моя́ ма́ма Еле́на и мой па́па Андре́й.
+Анто́н: Э́то моя́ семья́. Вот э́то мои́ роди́тели: моя́ ма́ма Еле́на и мой па́па Андре́й.
 [ˈɛtə mɐˈja sʲɪmʲˈja | vot ˈɛtə mɐˈi rɐˈdʲitʲɪlʲɪ | mɐˈja ˈmamə jɪˈlʲenə i moj ˈpapə ɐnˈdrʲej]
 Esta é minha família. Aqui estão meus pais: minha mãe Elena e meu pai Andrei.
 
-**Ле́на**:
-А э́то кто? Твоя́ сестра́?
+Ле́на: А э́то кто? Твоя́ сестра́?
 [a ˈɛtə kto | tvɐˈja sʲɪˈstra]
 E esta, quem é? Sua irmã?
 
-**Анто́н**:
-Да, э́то моя́ мла́дшая сестра́ О́льга. А э́то мой ста́рший брат Серге́й.
+Анто́н: Да, э́то моя́ мла́дшая сестра́ О́льга. А э́то мой ста́рший брат Серге́й.
 [da | ˈɛtə mɐˈja ˈmɫatʂəjə sʲɪˈstra ˈolʲɡə | a ˈɛtə moj ˈstarʂɨj brat sʲɪrˈɡʲej]
 Sim, esta é minha irmã mais nova Olga. E este é meu irmão mais velho Sergei.
 
-**Ле́на**:
-У тебя́ больша́я семья́! А де́душка и ба́бушка у тебя́ есть?
+Ле́на: У тебя́ больша́я семья́! А де́душка и ба́бушка у тебя́ есть?
 [ʊ‿tʲɪˈbʲa bɐlʲˈʂajə sʲɪmʲˈja | a ˈdʲedʊʂkə i ˈbabuʂkə ʊ‿tʲɪˈbʲa jesʲtʲ]
 Você tem uma família grande! E avô e avó, você tem?
 
-**Анто́н**:
-Да, есть. Вот они́ на друго́й фотогра́фии.
+Анто́н: Да, есть. Вот они́ на друго́й фотогра́фии.
 [da | jesʲtʲ | vot ɐˈnʲi nə drʊˈɡoj fətɐˈɡrafʲɪɪ]
 Sim, tenho. Aqui estão eles em outra fotografia.
 
@@ -552,27 +534,23 @@ Já introduzimos brevemente **мой, моя́, моё, мои́**. Vamos formal
 | **Здесь**            | [zʲdʲesʲ]           | Aqui              | Advérbio de lugar           |
 | **Хо́бби**            | [ˈxobʲɪ]            | Hobby             | Substantivo neutro (indecl.)|
 | **Чита́ть**           | [t͡ɕɪˈtatʲ]          | Ler               | Verbo infinitivo            |
-| **Ключи́**            | [klʲʊˈt͡ɕi]          | Chaves (plural)   | Plural de ключ (chave, m.р.)|
+| **Ключи́**            | [klʲʊˈt͡ɕi]          | Chaves (plural)   | Plural de ключ (chave, м.р.)|
 
 **Диало́г (Diálogo)**
 
-**Ма́ма**:
-Ва́ня, где твоя́ ку́ртка?
+Ма́ма: Ва́ня, где твоя́ ку́ртка?
 [ˈvanʲə | ɡdʲe tvɐˈja ˈkurtkə]
 Vania, onde está sua jaqueta?
 
-**Ва́ня**:
-Не зна́ю, ма́ма. Моя́ ку́ртка не здесь. Мо́жет быть, в друго́й ко́мнате?
+Ва́ня: Не зна́ю, ма́ма. Моя́ ку́ртка не здесь. Мо́жет быть, в друго́й ко́мнате?
 [nʲɪ‿ˈznajʊ | ˈmamə | mɐˈja ˈkurtkə nʲe zʲdʲesʲ | ˈmoʐɨd bɨtʲ | v‿drʊˈɡoj ˈkomnətʲɪ]
 Não sei, mamãe. Minha jaqueta não está aqui. Talvez em outro quarto?
 
-**Ма́ма**:
-А э́то чей шарф? Э́то твой шарф?
+Ма́ма: А э́то чей шарф? Э́то твой шарф?
 [a ˈɛtə t͡ɕej ʂarf | ˈɛtə tvoj ʂarf]
 E este cachecol, de quem é? Este é seu cachecol?
 
-**Ва́ня**:
-Нет, э́то не мой шарф. Э́то, наве́рное, па́пин шарф. Мой шарф си́ний.
+Ва́ня: Нет, э́то не мой шарф. Э́то, наве́рное, па́пин шарф. Мой шарф си́ний.
 [nʲet | ˈɛtə nʲe moj ʂarf | ˈɛtə | nɐˈvʲernəjə | ˈpapʲɪn ʂarf | moj ʂarf ˈsʲinʲɪj]
 Não, este não é meu cachecol. Este, provavelmente, é o cachecol do papai. Meu cachecol é azul.
 
@@ -642,23 +620,19 @@ Para perguntar "de quem" algo é, usamos as palavras interrogativas possessivas 
 
 **Диало́г (Diálogo)**
 
-**Учи́тель**:
-Де́ти, чья э́та тетра́дь на столе́?
+Учи́тель: Де́ти, чья э́та тетра́дь на столе́?
 [ˈdʲetʲɪ | t͡ɕja ˈɛtə tʲɪˈtratʲ nə stɐˈlʲe]
 Crianças, de quem é este caderno na mesa?
 
-**Ма́ша**:
-Э́то не моя́ тетра́дь. Моя́ тетра́дь в портфе́ле. Мо́жет быть, э́то тетра́дь Пе́ти?
+Ма́ша: Э́то не моя́ тетра́дь. Моя́ тетра́дь в портфе́ле. Мо́жет быть, э́то тетра́дь Пе́ти?
 [ˈɛtə nʲɪ‿mɐˈja tʲɪˈtratʲ | mɐˈja tʲɪˈtratʲ f‿pɐrtˈfʲelʲɪ | ˈmoʐɨd bɨtʲ | ˈɛtə tʲɪˈtratʲ ˈpʲetʲɪ]
 Este não é meu caderno. Meu caderno está na mochila. Talvez seja o caderno do Petya?
 
-**Пе́тя**:
-Нет, не моя́. Моя́ кра́сная. А э́та зелёная.
+Пе́тя: Нет, не моя́. Моя́ кра́сная. А э́та зелёная.
 [nʲet | nʲɪ‿mɐˈja | mɐˈja ˈkrasnəjə | a ˈɛtə zʲɪˈlʲonəjə]
 Não, não é meu. O meu é vermelho. E este é verde.
 
-**Учи́тель**:
-Тогда́ чей э́то каранда́ш? И чьи э́то очки́?
+Учи́тель: Тогда́ чей э́то каранда́ш? И чьи э́то очки́?
 [tɐɡˈda t͡ɕej ˈɛtə kərɐnˈdaʂ | i t͡ɕji ˈɛtə ɐt͡ɕˈkʲi]
 Então, de quem é este lápis? E de quem são estes óculos?
 
@@ -675,6 +649,7 @@ Então, de quem é este lápis? E de quem são estes óculos?
 | **Зелёная**          | [zʲɪˈlʲonəjə]     | Verde (fem.)             | Adjetivo feminino                                       |
 | **Каранда́ш**         | [kərɐnˈdaʂ]       | Lápis                    | Substantivo masculino                                     |
 | **Очки́**             | [ɐt͡ɕˈkʲi]         | Óculos                   | Substantivo pluralia tantum (só existe no plural)         |
+| **Тогда́**            | [tɐɡˈda]          | Então, nesse caso        | Advérbio                                                  |
 
 **Упражне́ние 3.6.1: Зада́йте вопро́с с Чей/Чья/Чьё/Чьи (Faça uma pergunta com De quem)**
 Formule perguntas usando a forma correta de "чей" para os seguintes itens.
@@ -779,15 +754,27 @@ Use **э́тот, э́та, э́то, э́ти** ou os pronomes possessivos **м
 
 **Упражне́ние 3.8.3: Моя́ семья́ - расска́з (Minha família - uma pequena história)**
 Tente escrever 3-4 frases simples sobre sua família (real ou imaginária), usando o vocabulário aprendido.
-Exemplo: Э́то моя́ семья́. У меня́ есть ма́ма и па́па. Мою́ ма́му зову́т Мари́я. Моего́ па́пу зову́т И́горь. У меня́ есть брат. Его́ зову́т Макси́м.
 
-*(Este exercício é de produção livre, então não há uma única resposta correta. Incentive o aluno a usar as estruturas: Меня́ зову́т..., Мою́ ма́му зову́т..., У меня́ есть...)*
+**Приме́р отве́та – Упражне́ние 3.8.3 (Exemplo de resposta – Exercício 3.8.3):**
+Э́то моя́ семья́. У меня́ есть ма́ма, па́па и сестра́. Мою́ ма́му зову́т Еле́на, а моего́ па́пу зову́т Андре́й. Моя́ сестра́ – студе́нтка, её зову́т О́льга. Я люблю́ мою́ семью́.
+[ˈɛtə mɐˈja sʲɪmʲˈja | ʊ‿mʲɪˈnʲa jesʲtʲ ˈmamə | ˈpapə i sʲɪˈstra | mɐˈju ˈmamʊ zɐˈvut jɪˈlʲenə | a məjɪˈvo ˈpapʊ zɐˈvut ɐnˈdrʲej | mɐˈja sʲɪˈstra | stʊˈdʲentkə | jɪˈjo zɐˈvut ˈolʲɡə | ja lʲʊˈblʲu mɐˈju sʲɪmʲˈju]
+(Esta é minha família. Eu tenho mãe, pai e irmã. O nome da minha mãe é Elena, e o nome do meu pai é Andrei. Minha irmã é estudante, o nome dela é Olga. Eu amo minha família.)
+
+**Но́вые слова́ из приме́ра отве́та (Novas palavras do exemplo de resposta):**
+
+| Русский (com acento) | IPA (Pronúncia) | Português                        | Nota Gramatical Breve                |
+| :------------------- | :-------------- | :------------------------------- | :----------------------------------- |
+| **Студе́нтка**        | [stʊˈdʲentkə]   | Estudante (feminino)             | ж.р.                                 |
+| **Люблю́ (я)**        | [lʲʊˈblʲu]      | (Eu) amo                         | Verbo люби́ть, 1ª p. sing. presente |
+| **Семью́ (мою́ семью́)**| [sʲɪmʲˈju]      | Família (minha família - Acus.)  | Acusativo de семья́                  |
 
 Молоде́ц! Вы зако́нчили тре́тий уро́к! (Muito bem! Você terminou a terceira lição!)
 
-Nesta lição, você aprendeu a identificar pessoas e objetos usando Кто? e Что?, foi introduzido ao crucial conceito de gênero dos substantivos, aprendeu o vocabulário para membros da família e como usar os pronomes possessivos "meu/minha/meus/minhas". Essas são ferramentas essenciais para descrever seu mundo.
+Nesta lição, вы научи́лись идентифици́ровать люде́й и предме́ты, испо́льзуя "Кто?" и "Что?", познакомились с ва́жным поня́тием ро́да существи́тельных, вы́учили слова́ для чле́нов семьи́ и как испо́льзовать притяжа́тельные местоиме́ния "мой/моя́/моё/мои́". Э́то ва́жные инструме́нты для описа́ния ва́шего ми́ра.
+(Nesta lição, você aprendeu a identificar pessoas e objetos usando "Quem?" e "O quê?", foi introduzido ao importante conceito de gênero dos substantivos, aprendeu palavras para membros da família e como usar os pronomes possessivos "meu/minha/meus/minhas". Estas são ferramentas importantes para descrever o seu mundo.)
 
-Na **Уро́к 4 (Где ты живёшь? Мой дом.)**, vamos aprender a falar sobre onde moramos, descrever nossa casa ou apartamento e aprender mais vocabulário relacionado a lugares e habitação.
+На четвёртом уро́ке (Na quarta lição), **"Где ты живёшь? Мой дом."** (Onde você mora? Minha casa.), мы нау́чимся говори́ть о том, где мы живём, описывать наш дом и́ли кварти́ру и вы́учим бо́льше ле́ксики, свя́занной с места́ми и жильём.
+(Na quarta lição, "Onde você mora? Minha casa.", aprenderemos a falar sobre onde moramos, descrever nossa casa ou apartamento e aprenderemos mais vocabulário relacionado a lugares e moradia.)
 
 Так держа́ть! (Continue assim!) Успе́хов! (Sucessos!)
 
