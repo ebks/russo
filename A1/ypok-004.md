@@ -1,4 +1,3 @@
-
 ---
 # Уро́к 4 (Четвёртый)
 
@@ -11,7 +10,7 @@
 
 Nesta lição, vamos explorar um tópico muito prático e cotidiano: onde moramos. Aprenderemos a perguntar e responder sobre o local de residência (**где ты/Вы живёшь/живёте?** - onde você mora?). Isso nos levará a discutir cidades, países e, claro, a descrever nossa casa (**дом**) ou apartamento (**кварти́ра**). Introduziremos vocabulário essencial para cômodos da casa, alguns móveis básicos e adjetivos para descrever esses espaços. Além disso, continuaremos a praticar o uso de gêneros e pronomes possessivos, e teremos nosso primeiro contato com o caso preposicional, que é usado para indicar localização ("em" algum lugar). Será uma imersão no vocabulário do dia a dia que permitirá que você fale sobre seu ambiente de uma forma mais detalhada.
 
-**O que você aprenderá nesta lição:**
+**O что вы узна́ете на э́том уро́ке (O que você aprenderá nesta lição):**
 
 *   Perguntar e responder sobre o local de residência: "Где ты живёшь?" (Onde você mora?) e "Я живу́ в..." (Eu moro em...).
 *   O verbo **жить** (morar, viver) no presente.
@@ -112,28 +111,23 @@ Vamos aprender alguns nomes de países e cidades e como usá-los com "Я жив�
 
 **Диало́г (Diálogo)**
 
-**Мари́я**:
-Приве́т, Джон! Как дела́?
+Мари́я: Приве́т, Джон! Как дела́?
 [prʲɪˈvʲet | dʐon | kak dʲɪˈla]
 Oi, John! Como vai?
 
-**Джон**:
-Приве́т, Мари́я! Хорошо́, спаси́бо. А ты?
+Джон: Приве́т, Мари́я! Хорошо́, спаси́бо. А ты?
 [prʲɪˈvʲet | mɐˈrʲijə | xərɐˈʂo | spɐˈsʲibə | a tɨ]
 Oi, Maria! Bem, obrigado. E você?
 
-**Мари́я**:
-То́же хорошо́. Джон, где ты живёшь? Ты живёшь в Росси́и?
+Мари́я: То́же хорошо́. Джон, где ты живёшь? Ты живёшь в Росси́и?
 [ˈtoʐə xərɐˈʂo | dʐon | ɡdʲe tɨ ʐɨˈvʲoʂ | tɨ ʐɨˈvʲoʂ v‿rɐˈsʲiɪ]
 Bem também. John, onde você mora? Você mora na Rússia?
 
-**Джон**:
-Нет, я живу́ в Аме́рике, в Нью-Йо́рке. А ты где живёшь?
+Джон: Нет, я живу́ в Аме́рике, в Нью-Йо́рке. А ты где живёшь?
 [nʲet | ja ʐɨˈvu v‿ɐˈmʲerʲɪkʲɪ | v‿nʲjʉˈjorkʲɪ | a tɨ ɡdʲe ʐɨˈvʲoʂ]
 Não, eu moro na América, em Nova York. E você, onde mora?
 
-**Мари́я**:
-Я живу́ в Росси́и, в Москве́.
+Мари́я: Я живу́ в Росси́и, в Москве́.
 [ja ʐɨˈvu v‿rɐˈsʲiɪ | v‿mɐskˈvʲe]
 Eu moro na Rússia, em Moscou.
 
@@ -233,33 +227,27 @@ Para dizer "eu tenho...", usamos a preposição **у** ([u]) seguida do pronome 
 
 **Диало́г (Diálogo)**
 
-**А́нна**:
-Бори́с, где ты живёшь? Ты живёшь в до́ме и́ли в кварти́ре?
+А́нна: Бори́с, где ты живёшь? Ты живёшь в до́ме и́ли в кварти́ре?
 [ˈanːə | bɐˈrʲis | ɡdʲe tɨ ʐɨˈvʲoʂ | tɨ ʐɨˈvʲoʂ v‿ˈdomʲɪ ˈilʲɪ f‿kvɐrˈtʲirʲɪ]
 Anna: Boris, onde você mora? Você mora em uma casa ou em um apartamento?
 
-**Бори́с**:
-Я живу́ в кварти́ре, в но́вом до́ме. А ты?
+Бори́с: Я живу́ в кварти́ре, в но́вом до́ме. А ты?
 [ja ʐɨˈvu f‿kvɐrˈtʲirʲɪ | v‿ˈnovəm ˈdomʲɪ | a tɨ]
 Boris: Eu moro em um apartamento, em um prédio novo. E você?
 
-**А́нна**:
-Я живу́ в ста́ром до́ме, в це́нтре го́рода. У меня́ ма́ленькая, но ую́тная кварти́ра.
+А́нна: Я живу́ в ста́ром до́ме, в це́нтре го́рода. У меня́ ма́ленькая, но ую́тная кварти́ра.
 [ja ʐɨˈvu f‿ˈstarəm ˈdomʲɪ | f‿ˈt͡sɛntrʲɪ ˈɡorədə | ʊ‿mʲɪˈnʲa ˈmalʲɪnʲkəjə | no ʊˈjutnəjə kvɐrˈtʲirə]
 Anna: Eu moro em um prédio antigo, no centro da cidade. Eu tenho um apartamento pequeno, mas aconchegante.
 
-**Бори́с**:
-Ско́лько ко́мнат в твое́й кварти́ре?
+Бори́с: Ско́лько ко́мнат в твое́й кварти́ре?
 [ˈskolʲkə ˈkomnət f‿tvɐˈjej kvɐrˈtʲirʲɪ]
 Boris: Quantos cômodos tem no seu apartamento?
 
-**А́нна**:
-У меня́ две ко́мнаты: гости́ная и спа́льня. И, коне́чно, ку́хня и ва́нная. А у тебя́?
+А́нна: У меня́ две ко́мнаты: гости́ная и спа́льня. И, коне́чно, ку́хня и ва́нная. А у тебя́?
 [ʊ‿mʲɪˈnʲa dvʲe ˈkomnətɨ | ɡɐˈsʲtʲinəjə i ˈspalʲnʲə | i | kɐˈnʲeʂnə | ˈkuxnʲə i ˈvanːəjə | a‿ʊ‿tʲɪˈbʲa]
 Anna: Eu tenho dois cômodos: sala de estar e quarto. E, claro, cozinha e banheiro. E você?
 
-**Бори́с**:
-У меня́ то́же две ко́мнаты, но есть ещё кабине́т. Я там рабо́таю.
+Бори́с: У меня́ то́же две ко́мнаты, но есть ещё кабине́т. Я там рабо́таю.
 [ʊ‿mʲɪˈnʲa ˈtoʐə dvʲe ˈkomnətɨ | no jesʲtʲ jɪˈɕːo kəbʲɪˈnʲet | ja tam rɐˈbotəjʊ]
 Boris: Eu também tenho dois cômodos, mas tenho também um escritório. Eu trabalho lá.
 
@@ -282,14 +270,22 @@ Boris: Eu também tenho dois cômodos, mas tenho também um escritório. Eu trab
 | **Коне́чно**          | [kɐˈnʲeʂnə]          | Claro, certamente        | Advérbio                                                    |
 | **Есть (у меня́ есть)**| [jesʲtʲ]             | Há, existe (eu tenho)    |                                                             |
 | **Ещё**              | [jɪˈɕːo]             | Ainda, mais              | Advérbio                                                    |
-| **Там**              | [tam]                | Lá, ali                  | Advérbio de lugar                                           |
 | **Рабо́таю (я)**      | [rɐˈbotəjʊ]          | (Eu) trabalho            | Verbo рабо́тать, 1ª p. sing. presente                      |
 
 **Упражне́ние 4.2.1: Опиши́те свою́ кварти́ру/дом (Descreva seu apartamento/casa)**
 Usando o vocabulário aprendido, escreva 3-4 frases descrevendo sua casa ou apartamento (real ou imaginário).
-Exemplo: Я живу́ в кварти́ре. В мое́й кварти́ре три ко́мнаты: гости́ная, спа́льня и кабине́т. Моя́ кварти́ра больша́я и све́тлая.
 
-*(Este exercício é de produção livre.)*
+**Приме́р отве́та – Упражне́ние 4.2.1 (Exemplo de resposta – Exercício 4.2.1):**
+Я живу́ в большо́м до́ме. В моём до́ме три ко́мнаты: гости́ная и две спа́льни. У меня́ та́кже есть ку́хня и ва́нная. Мой дом о́чень ую́тный и све́тлый.
+[ja ʐɨˈvu v‿bɐlʲˈʂom ˈdomʲɪ | v‿mɐˈjom ˈdomʲɪ trʲi ˈkomnətɨ | ɡɐˈsʲtʲinəjə i dvʲe ˈspalʲnʲɪ | ʊ‿mʲɪˈnʲa ˈtakʐə jesʲtʲ ˈkuxnʲə i ˈvanːəjə | moj dom ˈot͡ɕɪnʲ ʊˈjutnɨj i ˈsvʲetlɨj]
+(Eu moro em uma casa grande. Na minha casa há três cômodos: sala de estar e dois quartos. Eu também tenho uma cozinha e um banheiro. Minha casa é muito aconchegante e clara.)
+
+**Но́вые слова́ из приме́ра отве́та (Novas palavras do exemplo de resposta):**
+
+| Русский (com acento) | IPA (Pronúncia)   | Português               | Nota Gramatical Breve          |
+| :------------------- | :---------------- | :---------------------- | :----------------------------- |
+| **В моём (до́ме)**    | [v‿mɐˈjom]        | No meu (masc./neut. prep.)| Pronome possessivo preposicional|
+| **Та́кже**            | [ˈtakʐə]          | Também, assim como       | Advérbio/Conjunção             |
 
 ### **4.3 Прилага́тельные для описа́ния до́ма (Adjetivos para descrever a casa)**
 
@@ -316,23 +312,19 @@ Já vimos alguns adjetivos. Vamos aprender mais alguns úteis para descrever mor
 
 **Диало́г (Diálogo)**
 
-**О́льга**:
-Макси́м, расскажи́ о свое́й кварти́ре. Она́ больша́я?
+О́льга: Макси́м, расскажи́ о свое́й кварти́ре. Она́ больша́я?
 [ˈolʲɡə | mɐkˈsʲim | rəskɐˈʐɨ | ɐ‿svɐˈjej kvɐrˈtʲirʲɪ | ɐˈna bɐlʲˈʂajə]
 Olga: Maxim, conte sobre seu apartamento. Ele é grande?
 
-**Макси́м**:
-Да, моя́ кварти́ра дово́льно просто́рная. У меня́ три ко́мнаты. Гости́ная о́чень све́тлая, там два больши́х окна́.
+Макси́м: Да, моя́ кварти́ра дово́льно просто́рная. У меня́ три ко́мнаты. Гости́ная о́чень све́тлая, там два больши́х окна́.
 [da | mɐˈja kvɐrˈtʲirə dɐˈvolʲnə prɐˈstornəjə | ʊ‿mʲɪˈnʲa trʲi ˈkomnətɨ | ɡɐˈsʲtʲinəjə ˈot͡ɕɪnʲ ˈsvʲetləjə | tam dva bɐlʲˈʂɨx ɐkˈna]
 Maxim: Sim, meu apartamento é bastante espaçoso. Eu tenho três cômodos. A sala de estar é muito clara, lá tem duas janelas grandes.
 
-**О́льга**:
-Здо́рово! А ку́хня кака́я? Ма́ленькая?
+О́льга: Здо́рово! А ку́хня кака́я? Ма́ленькая?
 [ˈzdorəvə | a ˈkuxnʲə kɐˈkajə | ˈmalʲɪnʲkəjə]
 Olga: Que legal! E a cozinha, como é? Pequena?
 
-**Макси́м**:
-Нет, ку́хня не ма́ленькая, но и не о́чень больша́я. Она́ совреме́нная и ую́тная. Там но́вый холоди́льник и плита́.
+Макси́м: Нет, ку́хня не ма́ленькая, но и не о́чень больша́я. Она́ совреме́нная и ую́тная. Там но́вый холоди́льник и плита́.
 [nʲet | ˈkuxnʲə nʲɪ‿ˈmalʲɪnʲkəjə | no i nʲe ˈot͡ɕɪnʲ bɐlʲˈʂajə | ɐˈna səvrʲɪˈmʲenːəjə i ʊˈjutnəjə | tam ˈnovɨj xəlɐˈdʲilʲnʲɪk i plʲɪˈta]
 Maxim: Não, a cozinha não é pequena, mas também não é muito grande. Ela é moderna e aconchegante. Lá tem uma geladeira e um fogão novos.
 
@@ -351,8 +343,6 @@ Maxim: Não, a cozinha não é pequena, mas também não é muito grande. Ela é
 | **Здо́рово!**         | [ˈzdorəvə]           | Que legal! Ótimo!       | Advérbio/Exclamação                                          |
 | **Кака́я?**           | [kɐˈkajə]            | Como (é)? Que tipo de...? (fem.)| Pronome interrogativo, feminino                              |
 | **Не... но и не...** | [nʲe... no i nʲe...] | Não é... mas também não é...| Construção adversativa                                       |
-| **Холоди́льник**      | [xəlɐˈdʲilʲnʲɪk]     | Geladeira               | Substantivo masculino                                        |
-| **Плита́**            | [plʲɪˈta]            | Fogão                   | Substantivo feminino                                         |
 
 **Упражне́ние 4.3.1: Согласу́йте прилага́тельные (Concorde os adjetivos)**
 Coloque os adjetivos entre parênteses na forma correta para concordar com o substantivo.
@@ -433,23 +423,19 @@ Não há uma regra fácil para prever quais substantivos masculinos terão esta 
 
 **Диало́г (Diálogo)**
 
-**Ива́н**:
-Ма́ма, где мой телефо́н? Я не могу́ его́ найти́.
+Ива́н: Ма́ма, где мой телефо́н? Я не могу́ его́ найти́.
 [ˈmamə | ɡdʲe moj tʲɪlʲɪˈfon | ja nʲɪ‿mɐˈɡu jɪˈvo nɐjˈtʲi]
 Mãe, onde está meu telefone? Eu não consigo encontrá-lo.
 
-**Ма́ма**:
-Мо́жет быть, он на столе́ в твое́й ко́мнате? И́ли в шкафу́?
+Ма́ма: Мо́жет быть, он на столе́ в твое́й ко́мнате? И́ли в шкафу́?
 [ˈmoʐɨd bɨtʲ | on nə stɐˈlʲe f‿tvɐˈjej ˈkomnətʲɪ | ˈilʲɪ f‿ʂkɐˈfu]
 Talvez ele esteja na mesa no seu quarto? Ou no armário?
 
-**Ива́н**:
-Нет, на столе́ его́ нет. В шкафу́ то́же нет. А! Вот он, в рюкзаке́!
+Ива́н: Нет, на столе́ его́ нет. В шкафу́ то́же нет. А! Вот он, в рюкзаке́!
 [nʲet | nə stɐˈlʲe jɪˈvo nʲet | f‿ʂkɐˈfu ˈtoʐə nʲet | a | vot on | v‿rʲʊɡzɐˈkʲe]
 Não, na mesa ele não está. No armário também não. Ah! Aqui está ele, na mochila!
 
-**Ма́ма**:
-Хорошо́. Смотри́ внима́тельнее в сле́дующий раз.
+Ма́ма: Хорошо́. Смотри́ внима́тельнее в сле́дующий раз.
 [xərɐˈʂo | smɐˈtrʲi vnʲɪˈmatʲɪlʲnʲɪjə f‿ˈslʲedʊjʉɕːɪj ras]
 Bom. Olhe com mais atenção da próxima vez.
 
@@ -467,7 +453,7 @@ Bom. Olhe com mais atenção da próxima vez.
 | **Сле́дующий раз**     | [ˈslʲedʊjʉɕːɪj ras] | Próxima vez                | Adjetivo + substantivo                                     |
 
 **Упражне́ние 4.4.1: Где э́то? (Onde está isto?)**
-Coloque os substantivos entre parênteses no caso preposicional com a preposição **в** (ou **на** quando apropriado).
+Coloque os substantivos entre parênteses no caso preposicional com a preposição correta (в/на).
 
 1.  Кни́га лежа́ла __________ (стол). (лежа́ла - estava deitada/pousada)
 2.  Мы живём __________ (Росси́я).
@@ -514,28 +500,23 @@ Para perguntar sobre a quantidade de algo, usamos **ско́лько** [ˈskolʲ
 
 **Диало́г (Diálogo)**
 
-**Риэ́лтор (Corretor de imóveis)**:
-До́брый день! Э́то кварти́ра, кото́рую вы хоте́ли посмотре́ть.
+Риэ́лтор (Corretor de imóveis): До́брый день! Э́то кварти́ра, кото́рую вы хоте́ли посмотре́ть.
 [ˈdobrɨj dʲenʲ | ˈɛtə kvɐrˈtʲirə | kɐˈtorʊjʊ vɨ xɐˈtʲelʲɪ pəsmɐˈtrʲetʲ]
 Boa tarde! Este é o apartamento que o(a) senhor(a) queria ver.
 
-**Клие́нт (Cliente)**:
-Здра́вствуйте. Ско́лько здесь ко́мнат?
+Клие́нт (Cliente): Здра́вствуйте. Ско́лько здесь ко́мнат?
 [ˈzdrastvʊjtʲe | ˈskolʲkə zʲdʲesʲ ˈkomnət]
 Olá. Quantos cômodos tem aqui?
 
-**Риэ́лтор**:
-В э́той кварти́ре три ко́мнаты: гости́ная, две спа́льни, а та́кже больша́я ку́хня и два туале́та.
+Риэ́лтор: В э́той кварти́ре три ко́мнаты: гости́ная, две спа́льни, а та́кже больша́я ку́хня и два туале́та.
 [v‿ˈɛtəj kvɐrˈtʲirʲɪ trʲi ˈkomnətɨ | ɡɐˈsʲtʲinəjə | dvʲe ˈspalʲnʲɪ | a ˈtakʐə bɐlʲˈʂajə ˈkuxnʲə i dva tʊɐˈlʲetə]
 Neste apartamento há três cômodos: sala de estar, dois quartos de dormir, e também uma cozinha grande e dois banheiros.
 
-**Клие́нт**:
-Поня́тно. А балко́н есть?
+Клие́нт: Поня́тно. А балко́н есть?
 [pɐˈnʲatnə | a bɐɫˈkon jesʲtʲ]
 Entendi. E tem varanda?
 
-**Риэ́лтор**:
-Да, есть небольшо́й, но о́чень ую́тный балко́н с ви́дом на парк.
+Риэ́лтор: Да, есть небольшо́й, но о́чень ую́тный балко́н с ви́дом на парк.
 [da | jesʲtʲ nʲɪbɐlʲˈʂoj | no ˈot͡ɕɪnʲ ʊˈjutnɨj bɐɫˈkon s‿ˈvʲidəm nə park]
 Sim, tem uma varanda pequena, mas muito aconchegante com vista para o parque.
 
@@ -556,6 +537,7 @@ Sim, tem uma varanda pequena, mas muito aconchegante com vista para o parque.
 | **Небольшо́й**        | [nʲɪbɐlʲˈʂoj]        | Pequeno (não grande)     | Adjetivo masculino                                           |
 | **С ви́дом на...**    | [s‿ˈvʲidəm nə]       | Com vista para...        | Preposição с + substantivo вид (vista) no instrumental + на + Acus. |
 | **Парк**             | [park]               | Parque                   | Substantivo masculino                                        |
+| **Мно́го**            | [ˈmnoɡə]             | Muitos, muito            | Advérbio de quantidade (rege genitivo plural)              |
 
 ### **4.6 Культу́рная заме́тка: Типы жилья́ в Росси́и (Tipos de Moradia na Rússia)**
 
@@ -615,15 +597,36 @@ Complete as frases, colocando as palavras entre parênteses no caso preposiciona
 **Упражне́ние 4.7.2: Мой дом - вопро́сы и отве́ты (Minha casa - perguntas e respostas)**
 Crie um pequeno diálogo. Pessoa A pergunta sobre a casa/apartamento da Pessoa B (tipo de moradia, número de cômodos, um adjetivo para descrevê-la). Pessoa B responde.
 
-Exemplo:
-А: Ты живёшь в до́ме и́ли в кварти́ре?
-Б: Я живу́ в кварти́ре.
-А: Ско́лько ко́мнат в твое́й кварти́ре?
-Б: В мое́й кварти́ре две ко́мнаты.
-А: Твоя́ кварти́ра больша́я и́ли ма́ленькая?
-Б: Моя́ кварти́ра ма́ленькая, но ую́тная.
+**Приме́р отве́та – Упражне́ние 4.7.2 (Exemplo de resposta – Exercício 4.7.2):**
+**А:** Приве́т! Скажи́, ты живёшь в до́ме и́ли в кварти́ре?
+[prʲɪˈvʲet | skɐˈʐɨ | tɨ ʐɨˈvʲoʂ v‿ˈdomʲɪ ˈilʲɪ f‿kvɐrˈtʲirʲɪ]
+A: Oi! Diga-me, você mora em uma casa ou em um apartamento?
 
-*(Este exercício é de produção livre.)*
+**Б:** Я живу́ в кварти́ре.
+[ja ʐɨˈvu f‿kvɐrˈtʲirʲɪ]
+B: Eu moro em um apartamento.
+
+**А:** А ско́лько ко́мнат в твое́й кварти́ре?
+[a ˈskolʲkə ˈkomnət f‿tvɐˈjej kvɐrˈtʲirʲɪ]
+A: E quantos cômodos tem no seu apartamento?
+
+**Б:** В мое́й кварти́ре три ко́мнаты.
+[v‿mɐˈjej kvɐrˈtʲirʲɪ trʲi ˈkomnətɨ]
+B: No meu apartamento tem três cômodos.
+
+**А:** Твоя́ кварти́ра больша́я?
+[tvɐˈja kvɐrˈtʲirə bɐlʲˈʂajə]
+A: Seu apartamento é grande?
+
+**Б:** Да, она́ дово́льно просто́рная и све́тлая.
+[da | ɐˈna dɐˈvolʲnə prɐˈstornəjə i ˈsvʲetləjə]
+B: Sim, ele é bastante espaçoso e claro.
+
+**Но́вые слова́ из приме́ра отве́та (Novas palavras do exemplo de resposta):**
+
+| Русский (com acento) | IPA (Pronúncia) | Português            | Nota Gramatical Breve |
+| :------------------- | :-------------- | :------------------- | :-------------------- |
+| **Скажи́ (ты)**       | [skɐˈʐɨ]        | Diga! (imperativo)   | Verbo сказа́ть         |
 
 **Упражне́ние 4.7.3: Переведи́те на ру́сский (Traduza para o russo)**
 
@@ -648,9 +651,11 @@ Exemplo:
 
 Поздравля́ю! (Parabéns!) Вы заверши́ли четвёртый уро́к! (Você completou a quarta lição!)
 
-Nesta lição, você aprendeu a falar sobre onde mora, descrever sua casa e os cômodos, e teve uma introdução importante ao caso preposicional para indicar localização. O vocabulário está crescendo, e sua capacidade de formar frases também!
+Nesta lição, вы научи́лись говори́ть о том, где вы живёте, описывать ваш дом и ко́мнаты, и получили ва́жное введе́ние в предло́жный паде́ж для указа́ния ме́ста. Ваш словарный запа́с растёт, и ва́ша спосо́бность стро́ить фра́зы то́же!
+(Nesta lição, você aprendeu a falar sobre onde mora, descrever sua casa e os cômodos, e teve uma introdução importante ao caso preposicional para indicar localização. Seu vocabulário está crescendo, e sua capacidade de construir frases também!)
 
-В пя́том уро́ке (Na quinta lição), **"Ско́лько тебе́ лет? Чи́сла и во́зраст."** (Quantos anos você tem? Números e idade.), vamos mergulhar no mundo dos números russos e aprender a falar sobre idade.
+В пя́том уро́ке (Na quinta lição), **"Ско́лько тебе́ лет? Чи́сла и во́зраст."** (Quantos anos você tem? Números e idade.), мы погрузи́мся в мир ру́сских числи́тельных и нау́чимся говори́ть о во́зрасте.
+(Na quinta lição, "Quantos anos você tem? Números e idade.", vamos mergulhar no mundo dos números russos e aprender a falar sobre idade.)
 
 Не останавливайтесь на дости́гнутом! (Não pare no que foi alcançado! / Continue progredindo!)
 
