@@ -10,7 +10,7 @@
 
 Nesta lição, vamos abordar um tópico essencial em qualquer idioma: os números (**чи́сла**) e como falar sobre a idade (**во́зраст**). Aprender a contar é uma habilidade fundamental, e saber perguntar e dizer a idade é crucial para muitas interações sociais. Começaremos com os números cardinais de 0 a 100, que formarão a base para números maiores no futuro. Em seguida, aprenderemos a estrutura específica usada em russo para perguntar e declarar a idade, que envolve o uso do caso genitivo para os numerais e a palavra "лет" (anos). Pode parecer um pouco diferente do português, mas com prática, se tornará natural.
 
-**O que você aprenderá nesta lição:**
+**O что вы узна́ете на э́том уро́ке (O que você aprenderá nesta lição):**
 
 *   Os números cardinais (**количе́ственные числи́тельные**) de 0 a 20.
 *   Os números cardinais para as dezenas (20, 30, 40, ..., 90, 100).
@@ -43,6 +43,18 @@ Os números cardinais (количе́ственные числи́тельные
 | 8                  | **во́семь**                        | [ˈvosʲɪmʲ]        | O "в" inicial é sonoro. O "с" e o "м" são brandos.                           |
 | 9                  | **де́вять**                        | [ˈdʲevʲɪtʲ]       | O "д" e o "т" são brandos. O "я" é suave [ʲa].                              |
 | 10                 | **де́сять**                        | [ˈdʲesʲɪtʲ]       | O "д" e o "т" são brandos. O "я" é suave [ʲa].                              |
+
+**Но́вые слова́ (Novas palavras):**
+
+| Русский (com acento) | IPA (Pronúncia)            | Português                                   |
+| :------------------- | :------------------------- | :------------------------------------------ |
+| **Числи́тельные**     | [t͡ɕɪˈslʲitʲɪlʲnɨjə]       | Numerais                                    |
+| **Количе́ственные**   | [kɐˈlʲit͡ɕɪstvʲɪnːɨjə]     | Cardinais (quantitativos)                   |
+| **Ци́фра**            | [ˈt͡sɨfrə]                | Algarismo, cifra                            |
+| **Число́ (мн.ч. чи́сла)**| [t͡ɕɪsˈlo] ([ˈt͡ɕislə]) | Número (plural: números)                      |
+| **Ско́лько?**         | [ˈskolʲkə]               | Quanto(s)?                                  |
+| **Счита́ть (гото́вы счита́ть?)**| [ɕːɪˈtatʲ]      | Contar (prontos para contar?)               |
+| **Начнём (мы)**        | [nɐt͡ɕˈnʲom]             | (Nós) começaremos                           |
 
 **Concordância de оди́н/одна́/одно́ e два/две:**
 Os números 1 e 2 têm formas diferentes dependendo do gênero do substantivo que eles contam.
@@ -171,10 +183,6 @@ Para formar números como 21, 35, 78, etc., simplesmente dizemos a dezena seguid
 
 **Concordância de substantivos com números compostos:**
 O substantivo concorda com a **última** parte do número.
-*   два́дцать **оди́н** стол (21 mesas - genitivo singular após "оди́н стол") - *Na verdade, após оди́н, o substantivo fica no nominativo singular: два́дцать оди́н стол.*
-*   два́дцать **одна́** кни́га (21 livros - nominativo singular após "одна́ кни́га")
-*   два́дцать **два** стол**а́** (22 mesas - genitivo singular após "два стола́")
-*   три́дцать **пять** стол**о́в** (35 mesas - genitivo plural após "пять столо́в")
 
 **Correção importante na concordância com 1 (e números terminados em 1, exceto 11):**
 Após "оди́н", "одна́", "одно́" (e em números compostos como 21, 31, 41 etc., mas não 11), o substantivo fica no **Nominativo Singular**.
@@ -268,25 +276,31 @@ A forma da palavra "ano" (**год, го́да, лет**) depende do número que
 | 0, 5-9, 10-20        | **лет**        | Мне 2**5 лет**      | [mnʲe ... lʲet]  |
 | (todos os "teens" 11-19)| **лет**        | Мне **11 лет**      | [mnʲe ... lʲet]  |
 
+**Но́вые слова́ (Novas palavras):**
+
+| Русский (com acento) | IPA (Pronúncia) | Português                                     | Nota Gramatical Breve                     |
+| :------------------- | :-------------- | :-------------------------------------------- | :---------------------------------------- |
+| **Тебе́**             | [tʲɪˈbʲe]       | A ti, para ti (dativo de ты)                  | Pronome pessoal                           |
+| **Вам**              | [vam]           | A vós, para vós (dativo de вы)                | Pronome pessoal                           |
+| **Лет**              | [lʲet]          | De anos (genitivo plural de год)              | Usado com ско́лько e números de 5-20 etc. |
+| **Год**              | [ɡot]           | Ano (nominativo singular)                     | Usado com números terminados em 1         |
+| **Го́да**             | [ˈɡodə]         | De ano (genitivo singular)                    | Usado com números 2, 3, 4                 |
+
 **Диало́г (Diálogo)**
 
-**О́льга**:
-Бори́с, извини́, мо́жно вопро́с? Ско́лько тебе́ лет?
+О́льга: Бори́с, извини́, мо́жно вопро́с? Ско́лько тебе́ лет?
 [ˈolʲɡə | bɐˈrʲis | ɪzvʲɪˈnʲi | ˈmoʐnə vɐˈpros | ˈskolʲkə tʲɪˈbʲe lʲet]
 Olga: Boris, desculpe, posso fazer uma pergunta? Quantos anos você tem?
 
-**Бори́с**:
-Мне два́дцать пять лет. А тебе́?
+Бори́с: Мне два́дцать пять лет. А тебе́?
 [mnʲe ˈdvat͡sətʲ pʲætʲ lʲet | a tʲɪˈbʲe]
 Boris: Eu tenho 25 anos. E você?
 
-**О́льга**:
-Мне два́дцать два го́да. Мой брат мла́дше меня́, ему́ два́дцать оди́н год.
+О́льга: Мне два́дцать два го́да. Мой брат мла́дше меня́, ему́ два́дцать оди́н год.
 [mnʲe ˈdvat͡sətʲ dva ˈɡodə | moj brat ˈmɫatʂə mʲɪˈnʲa | jɪˈmu ˈdvat͡sətʲ ɐˈdʲin ɡot]
 Olga: Eu tenho 22 anos. Meu irmão é mais novo que eu, ele tem 21 anos.
 
-**Бори́с**:
-А моя́ сестра́ ста́рше меня́. Ей три́дцать лет.
+Бори́с: А моя́ сестра́ ста́рше меня́. Ей три́дцать лет.
 [a mɐˈja sʲɪˈstra ˈstarʂə mʲɪˈnʲa | jej ˈtrʲit͡sətʲ lʲet]
 Boris: E minha irmã é mais velha que eu. Ela tem 30 anos.
 
@@ -296,7 +310,6 @@ Boris: E minha irmã é mais velha que eu. Ela tem 30 anos.
 | :------------------- | :---------------- | :-------------------------- | :------------------------------------------------------- |
 | **Извини́ (ты)**      | [ɪzvʲɪˈnʲi]       | Desculpe (informal)         | Verbo извини́ть, imperativo                               |
 | **Мо́жно**            | [ˈmoʐnə]          | Pode-se, é permitido        | Advérbio predicativo                                     |
-| **Вопро́с**           | [vɐˈpros]         | Pergunta                    | Substantivo masculino                                    |
 | **Мла́дше (кого́-л.)** | [ˈmɫatʂə]         | Mais novo (que alguém)      | Grau comparativo do adjetivo мла́дший / молодо́й          |
 | **Меня́ (мла́дше меня́)**| [mʲɪˈnʲa]         | Que eu (genitivo de я)      | Usado em comparações                                     |
 | **Ему́**              | [jɪˈmu]           | A ele (dativo de он/оно́)    | Usado para dizer a idade de um homem/ser neutro          |
@@ -358,23 +371,19 @@ Já vimos **мла́дший** (mais novo) e **ста́рший** (mais velho). 
 
 **Диало́г (Diálogo)**
 
-**Де́вочка (Menina)**:
-Ба́бушка, ско́лько тебе́ лет? Ты о́чень ста́рая?
+Де́вочка (Menina): Ба́бушка, ско́лько тебе́ лет? Ты о́чень ста́рая?
 [ˈdʲevət͡ɕkə | ˈbabuʂkə | ˈskolʲkə tʲɪˈbʲe lʲet | tɨ ˈot͡ɕɪnʲ ˈstarəjə]
 Menina: Vovó, quantos anos você tem? Você é muito velha?
 
-**Ба́бушка (Avó)**:
-Ха-ха, вну́ченька! Мне уже́ семьдеся́т три го́да. Да, я ста́рая, но у меня́ молодо́е се́рдце!
+Ба́бушка (Avó): Ха-ха, вну́ченька! Мне уже́ семьдеся́т три го́да. Да, я ста́рая, но у меня́ молодо́е се́рдце!
 [xa xa | ˈvnut͡ɕɪnʲkə | mnʲe ʊˈʐɛ ˈsʲemdʲɪsʲət trʲi ˈɡodə | da | ja ˈstarəjə | no ʊ‿mʲɪˈnʲa məlɐˈdojə ˈsʲert͡sə]
 Avó: Ha-ha, netinha! Eu já tenho 73 anos. Sim, sou velha, mas tenho um coração jovem!
 
-**Де́вочка**:
-А ма́ма мла́дше тебя́? Ско́лько ей лет?
+Де́вочка: А ма́ма мла́дше тебя́? Ско́лько ей лет?
 [a ˈmamə ˈmɫatʂə tʲɪˈbʲa | ˈskolʲkə jej lʲet]
 Menina: E a mamãe é mais nova que você? Quantos anos ela tem?
 
-**Ба́бушка**:
-Коне́чно, твоя́ ма́ма мла́дше. Ей со́рок пять лет. Она́ ещё о́чень молода́я.
+Ба́бушка: Коне́чно, твоя́ ма́ма мла́дше. Ей со́рок пять лет. Она́ ещё о́чень молода́я.
 [kɐˈnʲeʂnə | tvɐˈja ˈmamə ˈmɫatʂə | jej ˈsorək pʲætʲ lʲet | ɐˈna jɪˈɕːo ˈot͡ɕɪnʲ məlɐˈdajə]
 Avó: Claro, sua mãe é mais nova. Ela tem 45 anos. Ela ainda é muito jovem.
 
@@ -387,6 +396,8 @@ Avó: Claro, sua mãe é mais nova. Ela tem 45 anos. Ela ainda é muito jovem.
 | **Уже́**              | [ʊˈʐɛ]              | Já                   | Advérbio                                            |
 | **Се́рдце**           | [ˈsʲert͡sə]          | Coração              | Substantivo neutro                                  |
 | **Ещё**              | [jɪˈɕːo]            | Ainda, mais          | Advérbio                                            |
+| **Коне́чно**          | [kɐˈnʲeʂnə]         | Claro, certamente    | Advérbio                                            |
+| **Твоя́ (ма́ма)**      | [tvɐˈja]            | Tua, sua (fem.)      | Pronome possessivo                                  |
 
 **Упражне́ние 5.5.1: Правда и́ли нет? (Verdadeiro ou falso?)**
 Indique se as frases são logicamente verdadeiras ou falsas com base no entendimento comum de idade.
@@ -406,9 +417,12 @@ Indique se as frases são logicamente verdadeiras ou falsas com base no entendim
 
 | Русский (com acento) | IPA (Pronúncia) | Português         | Nota Gramatical Breve |
 | :------------------- | :-------------- | :---------------- | :-------------------- |
+| **Ребёнок**          | [rʲɪˈbʲonək]    | Criança           | м.р.                  |
 | **Обы́чно**           | [ɐˈbɨt͡ɕnə]      | Geralmente        | Advérbio              |
+| **Чем**              | [t͡ɕem]          | Do que (em comparações)| Conjunção             |
 | **Ча́сто**            | [ˈt͡ɕastə]       | Frequentemente    | Advérbio              |
 | **Пра́вда**           | [ˈpravdə]       | Verdade           | Substantivo feminino  |
+| **Же́нщина**          | [ˈʐɛnʲɕːɪnə]    | Mulher            | ж.р.                  |
 
 ### **5.6 Культу́рная заме́тка: Отноше́ние к во́зрасту и числа́м (Atitude em relação à idade e números)**
 
@@ -474,20 +488,47 @@ Complete as frases com o número por extenso e a forma correta do substantivo en
 | Русский (com acento) | IPA (Pronúncia)   | Português           | Nota Gramatical Breve |
 | :------------------- | :---------------- | :------------------ | :-------------------- |
 | **Сестры́**           | [sʲɪˈstrɨ]        | Irmãs (gen. sing. / nom. pl.) | (aqui gen. sing.)     |
+| **Каранда́ш**         | [kərɐnˈdaʂ]       | Lápis               | м.р.                  |
 | **Карандаше́й**       | [kərəndɐˈʂej]     | De lápis (gen. pl.) |                       |
 | **Моему́ (бра́ту)**    | [məjɪˈmu]         | Ao meu (dat. masc.) | Pronome possessivo    |
+| **Музе́й**            | [mʊˈzʲej]         | Museu               | м.р.                  |
 | **Музе́ев**           | [mʊˈzʲejɪf]       | De museus (gen. pl.)|                       |
 
 **Упражне́ние 5.7.3: Диало́г о во́зрасте (Diálogo sobre idade)**
 Crie um diálogo curto entre duas pessoas (A e B) onde elas se perguntam a idade e a idade de um membro da família (ex: irmão/irmã).
 
-*(Este exercício é de produção livre.)*
+**Приме́р отве́та – Упражне́ние 5.7.3 (Exemplo de resposta – Exercício 5.7.3):**
+**А:** Приве́т! Ско́лько тебе́ лет?
+[prʲɪˈvʲet | ˈskolʲkə tʲɪˈbʲe lʲet]
+A: Oi! Quantos anos você tem?
+
+**Б:** Мне два́дцать де́вять лет. А тебе́?
+[mnʲe ˈdvat͡sətʲ ˈdʲevʲɪtʲ lʲet | a tʲɪˈbʲe]
+B: Eu tenho 29 anos. E você?
+
+**А:** Мне три́дцать два го́да. У тебя́ есть брат и́ли сестра́?
+[mnʲe ˈtrʲit͡sətʲ dva ˈɡodə | ʊ‿tʲɪˈbʲa jesʲtʲ brat ˈilʲɪ sʲɪˈstra]
+A: Eu tenho 32 anos. Você tem irmão ou irmã?
+
+**Б:** Да, у меня́ есть мла́дшая сестра́.
+[da | ʊ‿mʲɪˈnʲa jesʲtʲ ˈmɫatʂəjə sʲɪˈstra]
+B: Sim, eu tenho uma irmã mais nova.
+
+**А:** Ско́лько ей лет?
+[ˈskolʲkə jej lʲet]
+A: Quantos anos ela tem?
+
+**Б:** Ей два́дцать пять лет.
+[jej ˈdvat͡sətʲ pʲætʲ lʲet]
+B: Ela tem 25 anos.
 
 Поздравля́ю с заверше́нием пя́того уро́ка! (Parabéns por completar a quinta lição!)
 
-Você agora tem uma boa base nos números russos de 0 a 100 e aprendeu a estrutura fundamental para falar sobre idade. Essas são habilidades que você usará constantemente! Lembre-se de que a concordância de "год/го́да/лет" com os números pode parecer complicada no início, mas se torna automática com a prática.
+Вы теперь име́ете хоро́шую ба́зу по ру́сским числи́тельным от нуля́ до ста и научи́лись основно́й структу́ре для разгово́ра о во́зрасте. Э́то о́чень поле́зные зна́ния, кото́рые вы бу́дете испо́льзовать постоя́нно! Помните, что согласова́ние слов "год/го́да/лет" с числи́тельными мо́жет показа́ться сло́жным внача́ле, но с пра́ктикой оно́ ста́нет автомати́ческим.
+(Você agora tem uma boa base nos números russos de zero a cem e aprendeu a estrutura básica para falar sobre idade. Este é um conhecimento muito útil que você usará constantemente! Lembre-se que a concordância das palavras "год/го́да/лет" com os numerais pode parecer complicada no início, mas com a prática ela se tornará automática.)
 
-На шесто́м уро́ке (Na sexta lição), **"Мой день. Распоря́док дня."** (Meu dia. Rotina diária.), vamos aprender a descrever nossas atividades diárias, introduzindo verbos de rotina e expressões de tempo.
+На шесто́м уро́ке (Na sexta lição), **"Мой день. Распоря́док дня."** (Meu dia. Rotina diária.), мы нау́чимся описывать на́ши повседневные де́йствия, познако́мимся с глаго́лами рути́ны и выраже́ниями вре́мени.
+(Na sexta lição, "Meu dia. Rotina diária.", aprenderemos a descrever nossas ações cotidianas, conheceremos verbos de rotina e expressões de tempo.)
 
 Продолжа́йте в том же ду́хе и до ско́рой встре́чи! (Continue no mesmo espírito e até breve!)
 
