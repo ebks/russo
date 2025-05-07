@@ -1,7 +1,8 @@
----
-# Уро́к 2** (Второ́й)
 
-# Здра́вствуйте! Знако́мство.**
+---
+# Уро́к 2 (Второ́й)
+
+# Здра́вствуйте! Знако́мство.
 
 ## *Olá! Apresentações.*
 ---
@@ -12,7 +13,7 @@ Bem-vindo(a) de volta ao nosso curso de russo! Na **Уро́к 1**, você deu o 
 
 Aprender a dizer "olá", "meu nome é..." e "prazer em conhecê-lo(a)" são as primeiras chaves para abrir portas em qualquer cultura. Em russo, assim como em português, existem diferentes formas de se dirigir às pessoas, dependendo da formalidade da situação e do seu relacionamento com elas. Vamos explorar essas nuances para que você se sinta confiante ao interagir com falantes de russo. Além disso, aprenderemos a perguntar o nome de alguém e a responder perguntas básicas sobre nós mesmos. Prepare-se para seus primeiros диало́ги (diálogos)!
 
-**O que você aprenderá nesta lição:**
+**O что вы узна́ете на э́том уро́ке (O que você aprenderá nesta lição):**
 
 *   Diferentes formas de dizer "olá" em russo:
     *   Cumprimentos formais (Здра́вствуйте).
@@ -35,7 +36,6 @@ Aprender a dizer "olá", "meu nome é..." e "prazer em conhecê-lo(a)" são as p
 Esta lição é fundamental, pois estabelece as bases para suas futuras interações. Гото́вы? (Prontos?) Пое́хали! (Vamos lá! - frase famosa de Yuri Gagarin).
 
 ---
-
 ### **2.1 Приве́тствия (Saudações/Cumprimentos)**
 
 Assim como em português, o russo possui diversas maneiras de cumprimentar alguém. A escolha da saudação correta depende do seu grau de familiaridade com a pessoa, da idade dela e do contexto social.
@@ -655,23 +655,23 @@ Falaremos mais sobre possessivos e gênero em lições futuras.
 
 Você (use seu nome) encontra uma pessoa (vamos chamá-la de Алекса́ндр/Алекса́ндра) em um evento formal. Componha um pequeno diálogo onde vocês se cumprimentam, perguntam os nomes um do outro e expressam prazer em se conhecer.
 
-**Отве́т – Упражне́ние 2.3.8 (Resposta – Exercício 2.3.8) (Exemplo usando o nome Па́улу):**
+**Приме́р отве́та – Упражне́ние 2.3.8 (Exemplo de resposta – Exercício 2.3.8) (Usando o nome Мари́на para "Você"):**
 
-Вы (Па́улу): Здра́вствуйте!
+Вы (Мари́на): Здра́вствуйте!
 [ˈzdrastvʊjtʲe] Olá!
 Алекса́ндр: Здра́вствуйте! Меня́ зову́т Алекса́ндр. А как Вас зову́т?
 [ˈzdrastvʊjtʲe | mʲɪˈnʲa zɐˈvut ɐlʲɪkˈsandr | a kak vas zɐˈvut] Olá! Meu nome é Aleksandr. E qual é o seu nome?
-Вы (Па́улу): Меня́ зову́т Па́улу. О́чень прия́тно.
-[mʲɪˈnʲa zɐˈvut ˈpaulʊ | ˈot͡ɕɪnʲ prʲɪˈjatnə] Meu nome é Paulo. Muito prazer.
-Алекса́ндр: Мне то́же о́чень прия́тно, Па́улу.
-[mnʲe ˈtoʐə ˈot͡ɕɪnʲ prʲɪˈjatnə | ˈpaulʊ] O prazer é meu também, Paulo.
+Вы (Мари́на): Меня́ зову́т Мари́на. О́чень прия́тно.
+[mʲɪˈnʲa zɐˈvut mɐˈrʲinə | ˈot͡ɕɪnʲ prʲɪˈjatnə] Meu nome é Marina. Muito prazer.
+Алекса́ндр: Мне то́же о́чень прия́тно, Мари́на.
+[mnʲe ˈtoʐə ˈot͡ɕɪnʲ prʲɪˈjatnə | mɐˈrʲinə] O prazer é meu também, Marina.
 
-**Но́вые слова́ и имена́ из примера ответа (Novas palavras e nomes do exemplo de resposta):**
+**Но́вые слова́ и имена́ из приме́ра отве́та (Novas palavras e nomes do exemplo de resposta):**
 
 | Русский (com acento) | IPA (Pronúncia)   | Português (Equivalente) | Nota Gramatical Breve |
 | :------------------- | :---------------- | :---------------------- | :-------------------- |
 | **Алекса́ндр**        | [ɐlʲɪkˈsandr]     | Aleksandr (Alexandre)   | Nome próprio masc.    |
-| **Па́улу**            | [ˈpaulʊ]          | Paulo                   | Nome próprio masc.    |
+| **Мари́на**           | [mɐˈrʲinə]        | Marina                  | Nome próprio fem.     |
 
 ### **2.4 Проща́ния (Despedidas)**
 
@@ -1054,12 +1054,14 @@ Traduza as seguintes frases curtas para o russo.
 9.  Пока́!
 10. До́брое у́тро!
 
-Молоде́ц! (Muito bem! - para uma pessoa). Você concluiu a **Уро́к 2**!
+Молоде́ц! (Muito bem! - para uma pessoa). Вы заверши́ли второ́й уро́к! (Você completou a segunda lição!)
 
-Nesta lição, você aprendeu o essencial para iniciar uma conversa em russo: como cumprimentar, perguntar como alguém está, apresentar-se, perguntar o nome de alguém e despedir-se. Cobrimos as diferenças entre contextos formais e informais, que são muito importantes na cultura russa. A quantidade de vocabulário e frases pode parecer grande, mas com prática e revisão constantes, tudo se tornará natural.
+Nesta lição, вы научи́лись здороваться, представля́ться, спра́шивать, как дела́, и проща́ться на ру́сском языке́. Вы та́кже узна́ли о ва́жности форма́льного и неформа́льного обраще́ния. Э́то о́чень ва́жные на́выки для нача́ла любо́го разгово́ра!
+(Nesta lição, você aprendeu a cumprimentar, apresentar-se, perguntar como vai e despedir-se em russo. Você também aprendeu sobre a importância do tratamento formal e informal. Estas são habilidades muito importantes para iniciar qualquer conversa!)
 
-Na **Уро́к 3 (Кто э́то? Что э́то? Моя́ семья́.)**, vamos aprender a perguntar "Quem é este?" e "O que é isto?", além de começar a falar sobre nossa família, introduzindo os pronomes possessivos básicos e o conceito de gênero dos substantivos.
+На тре́тьем уро́ке (Na terceira lição), **"Кто э́то? Что э́то? Моя́ семья́."** (Quem é este? O que é isto? Minha família.), мы нау́чимся спра́шивать "Кто э́то?" и "Что э́то?", а та́кже начнём говори́ть о на́шей семье́, знако́мясь с основны́ми притяжа́тельными местоиме́ниями и поня́тием ро́да существи́тельных.
+(Na terceira lição, "Quem é este? O que é isto? Minha família.", aprenderemos a perguntar "Quem é este?" e "O que é isto?", e também começaremos a falar sobre nossa família, conhecendo os pronomes possessivos básicos e o conceito de gênero dos substantivos.)
 
-Продолжа́йте в том же ду́хе! (Continue no mesmo espírito/Continue assim!) До встре́чи на сле́дующем уро́ке! (Até o encontro na próxima lição!)
+Продолжа́йте в том же ду́хе и до встре́чи на сле́дующем уро́ке! (Continue no mesmo espírito e até o encontro na próxima lição!)
 
 ---
